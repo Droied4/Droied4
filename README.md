@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/p1gzBFA712oAAAAC/totoro-mi-vecino-totoro.gif"  />
+  <img height="450" src="https://media.tenor.com/p1gzBFA712oAAAAC/totoro-mi-vecino-totoro.gif"  />
 </div>
 
 ###
@@ -17,16 +17,18 @@
 </div>
 
 ###
+<h1 align="center">
+   
+  ╔════════════════════╗
+  <br> ▣ Droied ▣                        
+  ╚════════════════════╝</h1>
+###
 
-<h1 align="center">hey there 👋</h1>
+<h3 align="left">About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Deivid from Colombia 🇨🇴 <br><br>📚 I'm currently learning in 42 Network<br></p>
+<p align="left">I'm Deivid from Colombia currently i'm learning in 42 Network<br></p>
 
 ###
 
@@ -50,7 +52,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Stats :</h3>
 
 ###
 
