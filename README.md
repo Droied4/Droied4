@@ -11,12 +11,6 @@
 </div>  --!>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=droied4.droied4&"  />
-</div>
-
-###
 <h1 align="center">
    
   ╔════════════════════╗
@@ -58,6 +52,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=droied4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <p align="left">visitor number</p>  <img src="https://visitor-badge.laobi.icu/badge?page_id=droied4.droied4&"  />
 </div>
 
 ###
