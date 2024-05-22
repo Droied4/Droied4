@@ -7,7 +7,7 @@
 <div align="center">
 
 ### $\textcolor{Violet}{╔════════════════════╗}$
-### $\textcolor{white}{▣  \color{Orange}  Droied  \color{white}  ▣}$
+### $\textbf{\color{White}{   ▣  \color{Orange}  Droied  \color{white}  ▣}}$
 ### $\textcolor{Violet}{╚════════════════════╝ \}$
 
 ---
