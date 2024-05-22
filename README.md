@@ -6,19 +6,15 @@
 
 <div align="center">
 
-###
-<h1 align="center">
-   
-  ╔════════════════════╗
-  <br> ▣ Droied ▣                        
-  ╚════════════════════╝
+### $\textcolor{Violet}{╔════════════════════╗}$
+### $\textcolor{white}{▣  \color{Orange}  Droied  \color{white}  ▣}$
+### $\textcolor{Violet}{╚════════════════════╝ \}$
 
-</h1>
-
+---
 
 ###
 
-<h3 align="left">🦊 About Me</h3>
+### $\textbf{\color{Violet}{🦊 About Me}}$
 
 ###
 
@@ -27,7 +23,8 @@
 ###
 
 ---
-<h3 align="left">🛠 Language and tools</h3>
+
+### $\textbf{\color{Orange}{🛠 \color{Violet} Language and tools}}$
 
 ###
 
@@ -50,7 +47,7 @@
 
 ###
 
-<h3 align="left">Stats :</h3>
+### $\textbf{\color{Violet}{📊 Stats}}$
 
 ###
 
