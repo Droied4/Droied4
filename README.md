@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="450" src="https://media.tenor.com/p1gzBFA712oAAAAC/totoro-mi-vecino-totoro.gif"  />
-</div>
 
 ###
 
@@ -9,6 +6,11 @@
 ### $\textcolor{Violet}{╔════════════════════╗}$
 ### $\textbf{\color{White}{   ▣  \color{Orange}  Droied  \color{white}  ▣}}$
 ### $\textcolor{Violet}{╚════════════════════╝ \}$
+
+<div align="center">
+  <img height="450" src="https://64.media.tumblr.com/eb385a0c897a360d7205714435a9e776/tumblr_oul9tv2iCp1vhvnzyo1_500.gif"  />
+</div>
+
 
 ---
 
