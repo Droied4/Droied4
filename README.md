@@ -4,7 +4,7 @@
 <div align="center">
 
 ### $\textcolor{Violet}{╔════════════════════╗}$
-### $\textbf{\color{White}{   ▣  \color{Orange}  Droied  \color{white}  ▣}}$
+### $\textbf{\color{White}{   ▣  \color{Red}  Droied  \color{white}  ▣}}$
 ### $\textcolor{Violet}{╚════════════════════╝ \}$
 
 <div align="center">
@@ -26,7 +26,7 @@
 
 ---
 
-### $\textbf{\color{Orange}{🛠 \color{Violet} Language and tools}}$
+### $\textbf{\color{Red}{🛠 \color{Violet} Language and tools}}$
 
 ###
 
