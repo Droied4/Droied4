@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droied4&layout=donut&theme=monokai)](https://github.com/anuraghazra/github-readme-stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droied4&layout=donut&theme=midnight-purple&hide_border=true"/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=droied4&theme=midnight-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D" height="220" alt="GitHub Streak" /></a>
 </div>
 
