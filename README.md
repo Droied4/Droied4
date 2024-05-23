@@ -49,7 +49,7 @@
 
 ###
 
-### $\textbf{\color{Violet}{📊 Stats}}$
+### $\textbf{\color{Red}{📊 \color {Violet} Stats}}$
 
 ###
 
