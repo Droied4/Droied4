@@ -16,7 +16,7 @@
 
 ###
 
-### $\textbf{\color{Violet}{🦊 About Me}}$
+### $\textbf{\color{Red}{🦊 \color{Violet} About Me}}$
 
 ###
 
