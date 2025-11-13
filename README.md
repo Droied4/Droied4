@@ -3,30 +3,16 @@
 
 <div align="center">
 
-### $\textcolor{Violet}{╔════════════════════╗}$
-### $\textbf{\color{White}{   ▣  \color{Red}  Droied  \color{white}  ▣}}$
-### $\textcolor{Violet}{╚════════════════════╝ \}$
+▣  Droied 
+
 
 <div align="center">
   <img height="450" src="https://64.media.tumblr.com/eb385a0c897a360d7205714435a9e776/tumblr_oul9tv2iCp1vhvnzyo1_500.gif"  />
 </div>
 
-
 ---
 
-###
-
-### $\textbf{\color{Red}{🦊 \color{Violet} About Me}}$
-
-###
-
-<p align="left">I'm Deivid from Colombia currently i'm learning in 42 Network BCN <br></p>
-
-###
-
----
-
-### $\textbf{\color{Red}{🛠 \color{Violet} Language and tools}}$
+ Language and tools
 
 ###
 
@@ -48,8 +34,7 @@
 ---
 
 ###
-
-### $\textbf{\color{Red}{📊 \color {Violet} Stats}}$
+ Stats
 
 ###
 
