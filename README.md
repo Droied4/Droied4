@@ -30,6 +30,6 @@
 <div>
   <h2 style="border-bottom: none;">Tools I use</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,vscode,clion,pycharm,rider,androidstudio,sqlite,selenium,cmake,vim,git&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=docker,nginx,vim,git,kubernetes&theme=dark&perline=7" />
   </a>
 </div>
