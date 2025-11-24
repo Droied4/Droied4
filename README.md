@@ -27,8 +27,9 @@
     </a> 
 </div>
 
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNmw1anhjMzF2djVxcGxldXl4MG9wMmUzM2xhNjFvd202YXBzejU5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DCcresAv6gOiaW0iYw/source.gif" width ="25"><b> Tools I Use</b>
+
 <div align="left">
-  <h2 style="border-bottom: none;">Tools I use</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,nginx,vim,git,kubernetes&theme=dark&perline=7" />
   </a>
