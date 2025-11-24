@@ -10,43 +10,26 @@
   <img height="450" src="https://64.media.tumblr.com/eb385a0c897a360d7205714435a9e776/tumblr_oul9tv2iCp1vhvnzyo1_500.gif"  />
 </div>
 
----
-
- Language and tools
-
-###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="44" alt="C_logo" />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" alt="C_logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="HTML5_logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="44" alt="Illustrator_logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="44" alt="Photoshop_logo" />
-  <img width="12" />
-  
-
+    <h2 style="border-bottom: none;">I'm experienced in following OSes</h2> 
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="ArchLinux" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
 </div>
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages I know</b>
 
-###
- Stats
-
-###
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droied4&layout=donut&theme=midnight-purple&hide_border=true"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=droied4&theme=midnight-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D" height="220" alt="GitHub Streak" /></a>
+<div align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,js,bash&theme=dark&perline=6" />
+      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=droied4&show_icons=true&hide=HTML,CSS&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></p>
+    </a> 
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=droied4.droied4&"  />
+<div>
+  <h2 style="border-bottom: none;">Tools I use</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,nginx,vscode,clion,pycharm,rider,androidstudio,sqlite,selenium,cmake,vim,git&theme=dark&perline=7" />
+  </a>
 </div>
-
-###
