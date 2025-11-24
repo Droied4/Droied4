@@ -27,7 +27,7 @@
     </a> 
 </div>
 
-<di align="left">
+<div align="left">
   <h2 style="border-bottom: none;">Tools I use</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,nginx,vim,git,kubernetes&theme=dark&perline=7" />
