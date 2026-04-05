@@ -22,7 +22,7 @@
 
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,js,bash&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,js,bash,ruby&theme=dark&perline=6" />
     </a> 
 </div>
 
